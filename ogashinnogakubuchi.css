@@ -8,6 +8,10 @@ body{
     justify-items:center;
 }
 
+body{
+    font-family:sans-serif;
+}
+
 .title3{
     height: 80px;;
 }
